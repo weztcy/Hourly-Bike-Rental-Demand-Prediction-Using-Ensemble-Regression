@@ -1,0 +1,5 @@
+2026/11/24-06:52:16.353 21dc Creating DB C:\Users\Dimas\Documents\PROJECT\Machine Learning Project Idea\1. Supervised Learning\Hourly Bike Rental Demand Prediction Using Ensemble Regression\.temp_edge_profile_inspect\Default\EdgeCoupons/coupons_data.db since it was missing.
+2026/11/24-06:52:16.360 21dc Reusing MANIFEST C:\Users\Dimas\Documents\PROJECT\Machine Learning Project Idea\1. Supervised Learning\Hourly Bike Rental Demand Prediction Using Ensemble Regression\.temp_edge_profile_inspect\Default\EdgeCoupons/coupons_data.db/MANIFEST-000001
+2026/11/24-06:52:16.506 3230 Level-0 table #5: started
+2026/11/24-06:52:16.509 3230 Level-0 table #5: 683273 bytes OK
+2026/11/24-06:52:16.511 3230 Delete type=0 #3

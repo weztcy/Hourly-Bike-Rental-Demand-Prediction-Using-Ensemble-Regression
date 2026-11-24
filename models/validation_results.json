@@ -1,0 +1,112 @@
+[
+  {
+    "Model": "Dummy (Mean)",
+    "Train MAE": 119.74,
+    "Train RMSE": 152.57,
+    "Train R2": 0.0,
+    "Val MAE": 194.08,
+    "Val RMSE": 253.93,
+    "Val R2": -0.2939,
+    "Overfitting Gap (MAE)": 74.34
+  },
+  {
+    "Model": "Dummy (Median)",
+    "Train MAE": 115.63,
+    "Train RMSE": 157.97,
+    "Train R2": -0.072,
+    "Val MAE": 209.35,
+    "Val RMSE": 275.79,
+    "Val R2": -0.5263,
+    "Overfitting Gap (MAE)": 93.71
+  },
+  {
+    "Model": "Linear Regression",
+    "Train MAE": 74.41,
+    "Train RMSE": 122.49,
+    "Train R2": 0.3555,
+    "Val MAE": 172.52,
+    "Val RMSE": 278.98,
+    "Val R2": -0.5618,
+    "Overfitting Gap (MAE)": 98.11
+  },
+  {
+    "Model": "Ridge Regression",
+    "Train MAE": 74.34,
+    "Train RMSE": 122.19,
+    "Train R2": 0.3586,
+    "Val MAE": 171.57,
+    "Val RMSE": 276.99,
+    "Val R2": -0.5396,
+    "Overfitting Gap (MAE)": 97.24
+  },
+  {
+    "Model": "Decision Tree",
+    "Train MAE": 32.08,
+    "Train RMSE": 51.64,
+    "Train R2": 0.8854,
+    "Val MAE": 56.33,
+    "Val RMSE": 84.8,
+    "Val R2": 0.8557,
+    "Overfitting Gap (MAE)": 24.24
+  },
+  {
+    "Model": "Random Forest",
+    "Train MAE": 13.33,
+    "Train RMSE": 22.65,
+    "Train R2": 0.978,
+    "Val MAE": 47.07,
+    "Val RMSE": 71.76,
+    "Val R2": 0.8967,
+    "Overfitting Gap (MAE)": 33.74
+  },
+  {
+    "Model": "Gradient Boosting",
+    "Train MAE": 18.39,
+    "Train RMSE": 30.09,
+    "Train R2": 0.9611,
+    "Val MAE": 41.59,
+    "Val RMSE": 65.48,
+    "Val R2": 0.9139,
+    "Overfitting Gap (MAE)": 23.2
+  },
+  {
+    "Model": "HistGradientBoosting",
+    "Train MAE": 20.13,
+    "Train RMSE": 33.22,
+    "Train R2": 0.9526,
+    "Val MAE": 42.3,
+    "Val RMSE": 65.44,
+    "Val R2": 0.9141,
+    "Overfitting Gap (MAE)": 22.17
+  },
+  {
+    "Model": "XGBoost",
+    "Train MAE": 17.97,
+    "Train RMSE": 29.63,
+    "Train R2": 0.9623,
+    "Val MAE": 40.13,
+    "Val RMSE": 62.57,
+    "Val R2": 0.9214,
+    "Overfitting Gap (MAE)": 22.16
+  },
+  {
+    "Model": "LightGBM",
+    "Train MAE": 19.45,
+    "Train RMSE": 32.03,
+    "Train R2": 0.9559,
+    "Val MAE": 39.7,
+    "Val RMSE": 61.85,
+    "Val R2": 0.9232,
+    "Overfitting Gap (MAE)": 20.25
+  },
+  {
+    "Model": "Voting Ensemble (Ensemble Regressor)",
+    "Train MAE": 18.89,
+    "Train RMSE": 31.18,
+    "Train R2": 0.9582,
+    "Val MAE": 40.12,
+    "Val RMSE": 62.32,
+    "Val R2": 0.9221,
+    "Overfitting Gap (MAE)": 21.23
+  }
+]

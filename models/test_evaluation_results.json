@@ -1,0 +1,63 @@
+{
+  "test_metrics": {
+    "MAE": 49.17,
+    "RMSE": 73.81,
+    "R2": 0.8823,
+    "MBE": -31.04,
+    "underpredict_pct": 73.47,
+    "overpredict_pct": 26.53
+  },
+  "dummy_baseline_metrics": {
+    "MAE": 169.03,
+    "RMSE": 228.42,
+    "R2": -0.1274
+  },
+  "slice_workingday": [
+    {
+      "workingday": 0,
+      "count": 863,
+      "mae": 48.0149268993868,
+      "rmse": 70.31310453949405
+    },
+    {
+      "workingday": 1,
+      "count": 1745,
+      "mae": 49.74542879838295,
+      "rmse": 75.47692302263656
+    }
+  ],
+  "slice_weather": [
+    {
+      "weathersit": 1,
+      "count": 1560,
+      "mae": 47.13790177233046,
+      "rmse": 70.2233591163535
+    },
+    {
+      "weathersit": 2,
+      "count": 862,
+      "mae": 49.18618065203155,
+      "rmse": 74.6030945670519
+    },
+    {
+      "weathersit": 3,
+      "count": 186,
+      "mae": 66.17763806700188,
+      "rmse": 96.08030426168871
+    }
+  ],
+  "slice_rush": [
+    {
+      "is_rush": 0,
+      "count": 2316,
+      "mae": 41.081367612588146,
+      "rmse": 61.735885194250756
+    },
+    {
+      "is_rush": 1,
+      "count": 292,
+      "mae": 113.35002663217439,
+      "rmse": 135.74319018914397
+    }
+  ]
+}
